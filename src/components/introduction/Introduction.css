@@ -1,23 +1,19 @@
-.Introduction-container
-{
-    margin: 0;
-}
-
 .Introduction-header
 {
     color: #488286;
-    margin: 0;
-    font-size: calc(4px + 1vmin);
+    font-size: calc(8px + 1vw);
 }
 
 .Introduction-name
 {
     margin: 0;
+    font-size: calc(40px + 1vh);
 }
 
 .Introduction-tagline
 {
     margin: 0;
+    font-size: calc(40px + 1vw);
     color: #e0e2db;
     opacity: 0.5;
 }
@@ -29,17 +25,14 @@
 
 .Introduction-paragraph
 {
-    margin-left: auto;
-    margin-right: auto;
     width: 25em;
-    font-size: calc(4px + 1vmin);
+    font-size: calc(8px + 1vw);
     opacity: 0.5;
 }
 
 .Introduction-button-container
 {
     margin-top: 10%;
-    width: 50%
 }
 
 .Introduction-button
