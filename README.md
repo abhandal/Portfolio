@@ -1,5 +1,3 @@
-[![Build Status](https://dev.azure.com/abhandal0674/portfolio/_apis/build/status/abhandal.portfolio?branchName=master)](https://dev.azure.com/abhandal0674/portfolio/_build/latest?definitionId=1&branchName=master)
-
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
