@@ -18,7 +18,7 @@ export function Introduction()
             </div>
 
             <div class="Introduction-button-container">
-                <a class="Introduction-button-anchor" href="mailto: aman.bhandal@outlook.com">
+                <a class="Introduction-button-anchor" href="mailto: me@amanbhandal.com">
                     <button class="Introduction-button">
                         Contact Me
                     </button>
